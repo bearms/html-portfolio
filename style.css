@@ -1,0 +1,26 @@
+.port{
+    background-color: palegoldenrod;
+    width: 100%;
+    color: black;
+    font-family: "Serif";
+    text-align: center;
+    padding: 10px;
+
+    
+
+}
+h1{
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+h2{
+    margin-bottom: px;
+}
+
+body{
+    background-color: beige;
+    min-height: 100vp;
+}
+a{
+    font-size: 30px;
+}
